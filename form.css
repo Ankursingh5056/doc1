@@ -1,0 +1,25 @@
+#parent{
+    display: flex;
+
+}
+#child1{
+    width: 290px;
+    height: 500px;
+    /* display: flex; */
+    flex-direction:column;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+
+input{
+    width:250px;
+}
+#specialization{
+    width:250px;
+}
+button{
+    background-color: rgb(237, 68, 30);
+}
+#mobile>input{
+    margin-top:5px;
+}
